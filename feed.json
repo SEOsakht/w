@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "سئو ساخت",
     "description": "",
-    "home_page_url": "https:// www.seosakht.ir",
-    "feed_url": "https:// www.seosakht.ir/feed.json",
+    "home_page_url": "https://www.seosakht.ir",
+    "feed_url": "https://www.seosakht.ir/feed.json",
     "user_comment": "",
     "author": {
         "name": "سئوساخت"
     },
     "items": [
         {
-            "id": "https:// www.seosakht.ir/test.html",
-            "url": "https:// www.seosakht.ir/test.html",
+            "id": "https://www.seosakht.ir/test.html",
+            "url": "https://www.seosakht.ir/test.html",
             "title": "test",
             "summary": "salam",
             "content_html": "salam",
