@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>سئو ساخت</title>
+    <link href="https:// www.seosakht.ir/feed.xml" rel="self" />
+    <link href="https:// www.seosakht.ir" />
+    <updated>1970-01-01T03:30:00+03:30</updated>
+    <author>
+        <name>سئوساخت</name>
+    </author>
+    <id>https:// www.seosakht.ir</id>
+
+</feed>
