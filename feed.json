@@ -9,5 +9,17 @@
         "name": "سئوساخت"
     },
     "items": [
+        {
+            "id": "https:// www.seosakht.ir/test.html",
+            "url": "https:// www.seosakht.ir/test.html",
+            "title": "test",
+            "author": {
+                "name": "سئوساخت"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-12-11T21:10:10+03:30",
+            "date_modified": "2019-12-11T21:10:10+03:30"
+        }
     ]
 }
