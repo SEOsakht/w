@@ -1,2 +1,0 @@
-# Redirect default Netlify subdomain to primary domain
-https://seosakht.netlify.app/* https://www.seosakht.ir/:splat 301!
